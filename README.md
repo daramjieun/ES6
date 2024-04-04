@@ -15,6 +15,19 @@
 - 콜백 함수
 
 
-## Section 1
+## Section 2
+
+- Truthy와 Falsy
+- Date 객체와 날짜
+- 동기와 비동기
+- 콜백 함수
+- Promise
+- Async와 Await
+- 단락평가
+- 구조분해할당
+- 스프페드 연산자와 Rest 파라미터
+- 원시타입과 객체타입
+- 반복문 순회
+- 배열메서드
 
   
